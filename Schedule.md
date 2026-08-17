@@ -49,8 +49,8 @@ __Week 4:__
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignments 1.12 and 1.13}}$ | 1.1.9, 1.1.13-1.1.15
   - __Wed Sep 16__: L1.10 Troubleshooting Problems \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignment 1.14}}$ | 3.5.1
-  - __Fri Sep 18__: __Skill Check 1 (SK1): Basics of R__ (no video) \
-  $\color{red}{\textsf{Prepare for Skill Check}}$ | $\color{blue}{\textsf{None}}$ | 1.1, 1.2.1, 2.1.1-2.1.3, 3.5
+  - __Fri Sep 18__: __Exam 1: Basics of R__ (no video) \
+  $\color{red}{\textsf{Prepare for Exam}}$ | $\color{blue}{\textsf{None}}$ | 1.1, 1.2.1, 2.1.1-2.1.3, 3.5
 
 ## Unit 2: Exploring Data
 
@@ -65,7 +65,7 @@ __Week 5:__
   
 __Week 6:__
 
-  - __Mon Sep 28__: L2.4 Scripting & Troubleshooting Compound Code, __SK1 attempt 2__ \
+  - __Mon Sep 28__: L2.4 Scripting & Troubleshooting Compound Code, __Exam 1 attempt 2__ \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignment 2.3}}$ | 2.2.1, 2.2.2, 3.5.1, 3.5.2 
   - __Wed Sep 30__: L2.5 Basic Data Analysis \
   $\color{red}{\textsf{Davies Ch. 13}}$ | $\color{blue}{\textsf{Assignment 2.4}}$ | 3.4
@@ -83,7 +83,7 @@ __Week 7:__
   
 __Week 8:__
 
-  - __Mon Oct 12__: L2.9 Critiquing Visualizations (no video),  __SK1 final attempt__ \
+  - __Mon Oct 12__: L2.9 Critiquing Visualizations (no video),  __Exam 1 final attempt__ \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Prepare projects for critiques}}$ | 3.1-3.6 
   - __Wed Oct 14__: Project 1 (P1): Draft Visualizations set 1; Providing critiques (no video) \
   $\color{red}{\textsf{Set 1 prepares for critiques}}$ | $\color{blue}{\textsf{None}}$ | 3.1-3.6
@@ -92,8 +92,8 @@ __Week 8:__
 
 __Week 9:__
 
-  - __Mon Oct 19__: __Skill Check 2 (SK2): Exploring Data__ (no video) \
-  $\color{red}{\textsf{Prepare for Skill Check}}$ | $\color{blue}{\textsf{None}}$ | 2.2, 3.1-3.6
+  - __Mon Oct 19__: __Exam 2: Exploring Data__ (no video) \
+  $\color{red}{\textsf{Prepare for Exam}}$ | $\color{blue}{\textsf{None}}$ | 2.2, 3.1-3.6
 
 
 ## Unit 3: Skill Building
@@ -111,7 +111,7 @@ __Week 10:__
   $\color{red}{\textsf{Davies Ch. 10.1}}$ | $\color{blue}{\textsf{Assignment 3.3}}$ | 1.2.1, 1.2.7
   - __Wed Oct 28__: L3.4 Flow Control -- Looping \
   $\color{red}{\textsf{Davies Ch. 10.2, Watch:}}$ [Code Academy: Loops](https://www.youtube.com/watch?v=wxds6MAtUQ0) | $\color{blue}{\textsf{Assignment 3.4}}$ | 1.2.1, 1.2.6, 1.2.8
-  - __Fri Oct 30__: L3.5 Flow Control -- Practice Problems (no video), __SK2 attempt 2__ \
+  - __Fri Oct 30__: L3.5 Flow Control -- Practice Problems (no video), __Exam 2 attempt 2__ \
   $\color{red}{\textsf{Davies Ch. 10.3}}$ | $\color{blue}{\textsf{Assignment 3.5}}$ | 1.2.1, 1.2.6-1.2.8 | __Project 2 decision due__
 
 __Week 11:__
@@ -125,11 +125,11 @@ __Week 11:__
 
 __Week 12:__
 
-  - __Mon Nov 9__: Refactoring Day! (no video), __SK2 final attempt__  \
+  - __Mon Nov 9__: Refactoring Day! (no video), __Exam 2 final attempt__  \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Prepare 3-min presentation on improved project code}}$ | 1.3.7, 1.3.9, 1.3.10, 3.5 | __Project 2 Draft due__
   - __Wed Nov 11__: Project 2 (P2): Assessing Project Improvement (no video) \
-  $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Prepare for Skill Check}}$ | 1.3.9, 1.3.10, 2.2.1, 2.2.2, 2.2.4, 2.3.4, 3.5 
-  - __Fri Nov 13__: __Skill Check 3 (SK3): Building Better Code__ (no video) \
+  $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Prepare for Exam}}$ | 1.3.9, 1.3.10, 2.2.1, 2.2.2, 2.2.4, 2.3.4, 3.5 
+  - __Fri Nov 13__: __Exam 3: Building Better Code__ (no video) \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{None}}$ | 1.2, 1.3.3, 1.3.9, 3.5
 
 ## Unit 4: Communicating Results
@@ -151,11 +151,11 @@ __Week 14:__
   
 __Week 15:__
 
-  - __Mon Nov 30__: L4.3  Creating and Managing Citations with RMarkdown, __SK3 attempt 2__  \
+  - __Mon Nov 30__: L4.3  Creating and Managing Citations with RMarkdown, __Exam 3 attempt 2__  \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignment 4.2}}$ | 2.2.1, 2.2.4, 3.7.2\  __Project 3 due__
   - __Wed Dec 2__: Work on Final Projects (no video) \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{None}}$ | all
-  - __Fri Dec 4__: Work on Final Projects (no video), __SK3 final attempt__  \
+  - __Fri Dec 4__: Work on Final Projects (no video), __Exam 3 final attempt__  \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{None}}$ | all 
   
 __Project 4 due Wed December 9__
