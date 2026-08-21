@@ -63,7 +63,7 @@ This course provides students with training in the following program learning ou
 
 There are three types of work items in the course: 
 
- - __Assignments__: Multi-question activities that will be assessed for full or partial completeness, based on the number of correct questions. Assignments will either be completed during class or outside of class.
+ - __Assignments__: Multi-question activities that will be assessed for full or partial completeness, based on the number of correct questions as compared to an assignment key. Assignments will either be completed during class (in-class assignments) or outside of class (out-of-class assignments). In-class assignments can include group activities, lecture video quizzes, or unannounced quizzes.
  - __Projects__: activities that will occur primarily outside of class and involve more synthesis of concepts, creativity, and originality of work than assignments to complete. These will be assess via a rubric released at beginning of each project period. There will be 4 projects during the semester. 
  - __Exams__: timed tests completed in class and assessed as a percentage of *complete questions.* Each exam question will be tied to detailed course learning objectives. Students will have three opportunities to successfully complete exam questions for each exam.There will be 3 exams during the semester.
 
@@ -80,18 +80,24 @@ From this percentage, course letter grades will be determined based on the follo
 
 ### About deadlines
 
-__There is no "late" work accepted.__ However, life happens, and you may not want to discuss with your instructor exactly what is going on to catch a break. You are allowed to invoke the __Life-Happens Clause__ on any assignment item (except those during the final exam period), no excuse required. Simply request a new deadline by email or a Slack message within 48 hours of when item was due (either before or after the deadline). _You have to provide the new deadline (date and time) in the message!_ You may invoke the clause as many times as needed during the semester. If it becomes habitual, consider contacting the instructor so we can work out a better timetable for submitting assignments. 
+__There is no "late" work accepted.__ However, life happens, and you may not want to discuss with your instructor exactly what is going on to catch a break. You are allowed to invoke the __Life-Happens Clause__ on any out-of-class assignment item, no excuse required. Simply request a new deadline by email or a Slack message within 48 hours of when item was due (either before or after the deadline). _You have to provide the new deadline (date and time) in the message!_ You may invoke the clause as many times as needed during the semester. If it becomes habitual, consider contacting the instructor so we can work out a better timetable for submitting assignments. 
 
+### Attendance
 
-### Attendance and Participation
+Chapman University recommends as a minimal policy that students "who are absent 20 percent of the course should be failed." (Academic Policies and Procedures). This course is designed to maximize your learning of the subject matter and advance your skills through a variety of activities. Therefore, our attendance policy is aimed at supporting our educational goals. Excused absences are religious holidays, pre-approved professional activities, injury or illness of student or immediate family member. Verification of these events, as appropriate, will be needed. Notification of anticipated absences must occur as early as possible. There will be no retroactive approval of unexcused absences, absent extraordinary circumstances. 
+
+For this course, in-class assignments can be only completed during class, so unexcused absences will result in a zero for any assignment completed during the missed class. Additionally, each absence after the first three will result in deduction of 1 percentage point from the total course score until 20 percent of classes are missed, at which point the student will automatically fail the course.
+
+__Course attendance__ will be taken by Qwickly Attendance. A student marking themselves present when not physically present in the classroom or aiding an absent student in being marked present (e.g., sending them the login code for that day so they can mark themselves present) constitutes fraud and will result in failing the course.
+
+__Final Project Policy__: You must be present at and participate in the final project, held during the final exam period, to pass the course. There will be no exceptions to this policy. 
+
+### Participation
 
 Learning depends on engagement, and engagement depends on both the relationship between students and instructors and the general learning environment. Engagement is a relationship, and like any other relationship, depends on two people: the instructor and the student. Instructors will do their part to come to class prepared with interesting material and a science-based lecture style that includes active learning techniques. You are expected to come to class prepared by completing any pre-class videos and assignments and willing to participate in your own learning. Furthermore, you are expected to help cultivate a positive and welcoming learning environment for you and your fellow students. In order to do this, class attendance _and participation_ is mandatory throughout the semester. 
 
-__How participation will be assessed__: Days in which you don't participate will be recorded. This could be due to: absence, excessive lateness (more than 10 minutes), not working on class exercises, not engaging with group work, not engaging in lecture materials, being excessively distracted or distracting (including being off-task), not viewing lesson videos in a timely manner, etc. Since no one is perfect, three absences will be overlooked during the semester. Additional absences will lead to a loss in completed work at the rate of two absences resulting in a deduction of one completed assignment. 
+__How participation will be assessed__: each class period will be assessed differently. Typically, there will be a lecture video to view before coming to class. There will also typically be an in-class assignment which will vary based on the day (examples are group-work activities, individual worksheets, unannounced quizzes). 
 
-__Link between Assignments and Videos:__ This class is partially flipped, so that you will need to watch a video of lecture content *before* attending the scheduled lecture in which that content will be covered. The lecture will consist of in-class work on the linked assignments. *In order for the associated assignment to be scored, the lecture video must be completed.* 
-
-There are no make-up work except under extraordinary circumstances for which documentation exists or otherwise noted. Please attend class on time, defined as within 5 minutes of the class start time.
 
 
 ### Other Course Policies
