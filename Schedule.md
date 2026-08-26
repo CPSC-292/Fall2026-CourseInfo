@@ -1,6 +1,6 @@
 # CPSC 292 Lecture and Assignment Schedule -- Fall 2026
 
-Last updated: 8/17/2026
+Last updated: 8/17/2026 
 
 ### Reading Guide and Notes
 
@@ -29,7 +29,7 @@ __Week 1:__
 __Week 2:__
   
   - __Mon Aug 31__: L1.4 Hands-on Introduction to R and RStudio \
-  $\color{red}{\textsf{Davies Ch. 1-2}}$ | $\color{blue}{\textsf{Assignment 1.5}}$ | 1.1.1-1.1.7, 2.2.1
+  $\color{red}{\textsf{Davies Ch. 1}}$ | $\color{blue}{\textsf{Assignment 1.5}}$ | 1.1.1-1.1.7, 2.2.1
   - __Wed Sep 2__: L1.5 Types of Data \
   $\color{red}{\textsf{Davies Ch. 4}}$ | $\color{blue}{\textsf{Assignment 1.6}}$ | 1.1.3, 1.1.5, 1.1.9
   - __Fri Sep 4__: L1.6 Vectors \
