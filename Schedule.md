@@ -1,6 +1,6 @@
 # CPSC 292 Lecture and Assignment Schedule -- Fall 2026
 
-Last updated: 8/17/2026 
+Last updated: 8/27/2026 
 
 ### Reading Guide and Notes
 
@@ -23,7 +23,7 @@ __Week 1:__
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{None}}$ | CLO 1-3 discussed
   - __Wed Aug 26__: L1.2 How Computers Work \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignments 1.1, 1.2, and 1.3}}$ | 1.1.8, 1.2.1, 2.1.1-2.1.3
-  - __Fri Aug 28__: L1.3 Computer Games \
+  - __Fri Aug 28__: L1.3 Computer Games (no video)\
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignment 1.4}}$ | 1.2.1
 
 __Week 2:__
