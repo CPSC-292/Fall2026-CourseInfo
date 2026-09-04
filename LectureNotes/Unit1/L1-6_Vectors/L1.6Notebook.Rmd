@@ -59,19 +59,18 @@ Write one line of code to recreate this vector and store it as the object `boop`
 4 5 5 5
 
 ```{r}
-boop <- rep(c(1, 2, 3, 4, 5), times = 3, each = 3) 
+
 ```
 
 Write a *different* line of code that reproduces this vector and stores it as the object `boop2`:
 
 ```{r}
-boop2 <- rep(1:5, times = 3, each = 3) 
+
 ```
 
 Test whether or not `boop` and `boop2` are the same using: 
 ```{r}
 all.equal(boop, boop2)
-
 ```
 
 ### Getting info about vectors
