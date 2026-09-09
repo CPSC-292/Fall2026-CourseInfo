@@ -24,31 +24,31 @@ __Week 1:__
   - __Wed Aug 26__: L1.2 How Computers Work \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignments 1.1, 1.2, and 1.3}}$ | 1.1.8, 1.2.1, 2.1.1-2.1.3
   - __Fri Aug 28__: L1.3 Computer Games (no video)\
-  $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignment 1.4}}$ | 1.2.1
+  $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{None}}$ | 1.2.1
 
 __Week 2:__
   
   - __Mon Aug 31__: L1.4 Hands-on Introduction to R and RStudio \
-  $\color{red}{\textsf{Davies Ch. 1}}$ | $\color{blue}{\textsf{Assignment 1.5}}$ | 1.1.1-1.1.7, 2.2.1
+  $\color{red}{\textsf{Davies Ch. 1}}$ | $\color{blue}{\textsf{Assignment 1.4}}$ | 1.1.1-1.1.7, 2.2.1
   - __Wed Sep 2__: L1.5 Types of Data \
-  $\color{red}{\textsf{Davies Ch. 4}}$ | $\color{blue}{\textsf{Assignment 1.6}}$ | 1.1.3, 1.1.5, 1.1.9
+  $\color{red}{\textsf{Davies Ch. 4}}$ | $\color{blue}{\textsf{Assignment 1.5}}$ | 1.1.3, 1.1.5, 1.1.9
   - __Fri Sep 4__: L1.6 Vectors \
-  $\color{red}{\textsf{Davies Ch. 2}}$ | $\color{blue}{\textsf{Assignment 1.7}}$ | 1.1.10-1.1.12
+  $\color{red}{\textsf{Davies Ch. 2}}$ | $\color{blue}{\textsf{Assignment 1.6}}$ | 1.1.10-1.1.12
 
 __Week 3:__
 
   - __Mon Sep 7__: Labor Day, no class  
   - __Wed Sep 9__: L1.7 Matrices and Arrays \
-  $\color{red}{\textsf{Davies Ch. 3}}$ | $\color{blue}{\textsf{Assignments 1.8 and 1.9}}$ | 1.1.10-1.1.12
+  $\color{red}{\textsf{Davies Ch. 3}}$ | $\color{blue}{\textsf{Assignments 1.7 and 1.8}}$ | 1.1.10-1.1.12
   - __Fri Sep 11__: L1.8 Lists and Data Frames \
-  $\color{red}{\textsf{Davies Ch. 5}}$ | $\color{blue}{\textsf{Assignments 1.10 and 1.11}}$ | 1.1.11-1.1.12
+  $\color{red}{\textsf{Davies Ch. 5}}$ | $\color{blue}{\textsf{Assignments 1.9 and 1.10}}$ | 1.1.11-1.1.12
 
 __Week 4:__
 
   - __Mon Sep 14__: L1.9 Factors, Special Values, and Class Coercion \
-  $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignments 1.12 and 1.13}}$ | 1.1.9, 1.1.13-1.1.15
+  $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignments 1.11 and 1.12}}$ | 1.1.9, 1.1.13-1.1.15
   - __Wed Sep 16__: L1.10 Troubleshooting Problems \
-  $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignment 1.14}}$ | 3.5.1
+  $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignment 1.13}}$ | 3.5.1
   - __Fri Sep 18__: __Exam 1: Basics of R__ (no video) \
   $\color{red}{\textsf{Prepare for Exam}}$ | $\color{blue}{\textsf{None}}$ | 1.1, 1.2.1, 2.1.1-2.1.3, 3.5
 
