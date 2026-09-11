@@ -188,6 +188,7 @@ In the `ToothGrowth` data set, how can you print out all the measured tooth leng
 How can you find the mean and standard deviations of these lengths?
 ```{r}
 
+
 ```
 
 
