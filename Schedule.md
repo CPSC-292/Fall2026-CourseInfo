@@ -46,7 +46,7 @@ __Week 3:__
 __Week 4:__
 
   - __Mon Sep 14__: L1.9 Factors, Special Values, and Class Coercion \
-  $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignments 1.11 and 1.12}}$ | 1.1.9, 1.1.13-1.1.15
+  $\color{red}{\textsf{Davies Ch. 4.3, 6}}$ | $\color{blue}{\textsf{Assignments 1.11 and 1.12}}$ | 1.1.9, 1.1.13-1.1.15
   - __Wed Sep 16__: L1.10 Troubleshooting Problems \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignment 1.13}}$ | 3.5.1
   - __Fri Sep 18__: __Exam 1: Basics of R__ (no video) \
