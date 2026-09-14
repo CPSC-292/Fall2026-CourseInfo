@@ -74,13 +74,7 @@ Create a data frame that contains:
  - a column of class factor describing the color of those items
  
 ```{r}
-things <- data.frame(
-  "objects" = c("computer", "whiteboard", "desk", "chair"),
-  "color" =   c("black",    "white",      "brown", "black")
-)
 
-things$color <- factor(things$color, ordered = T, 
-                       levels = c("white", "brown", "black"))
 ```
 
 ### Special values
