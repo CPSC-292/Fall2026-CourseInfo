@@ -150,7 +150,6 @@ Make a plot of vapor pressure in mmHg versus temperature in C of mercury using t
 ```{r}
 # Put your code here! 
 
-
 ```
 
 
@@ -184,7 +183,6 @@ Make a plot of circumference versus age of the orange trees in the data set Oran
 
 ```{r}
 # Put your code here! 
-
 
 ```
 
