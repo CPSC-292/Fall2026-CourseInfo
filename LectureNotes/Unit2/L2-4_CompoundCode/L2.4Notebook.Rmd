@@ -43,7 +43,7 @@ Speed versus hair splay:
 ```{r}
 plot(crab.dat$Model, crab.dat$Speed, 
      xlab = "Hair splay model", 
-     ylab = "Fluid speed in arary (m/s)")
+     ylab = "Fluid speed in array (m/s)")
 
 ```
 
@@ -56,4 +56,16 @@ Import the data set in `tomatohaul2021.csv` as tomato.data. Graph tomato harvest
 ```{r}
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
 
