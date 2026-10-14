@@ -118,3 +118,8 @@ Rubric:
 
 If you have used GenAI in creating your project, you must include a reflection (text only) which covers the following: which GenAI resource was used (Chat GPT, CoPilot, etc), how the resource was used to produce the code and how that code was integrated into your project, and any complications you experienced using the resource. 
 
+Rubric: 
+
+  - Full points: Gen AI was used and the reflection is present and complete. 
+  - 25% deduction: Gen AI was used and the reflection is absent. 
+
