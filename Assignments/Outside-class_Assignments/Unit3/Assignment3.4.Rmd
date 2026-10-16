@@ -1,0 +1,35 @@
+---
+title: "Assignment 3.4"
+author: "Your Name"
+date: "10/28/2026"
+output:
+  html_document:
+    df_print: paged
+subtitle: "CPSC 292 Section ##"
+---
+
+## Assignment 3.4 -- Loops
+
+```{r, include=TRUE}
+# Loading required libraries
+
+```
+
+This assignment uses the same files in a `data` as Assignment 3.3.
+
+### Question 1
+
+*Write a for loop that loads in each data set in the `data/` folder and plots the point 1 x and y values from all 6 sets on the same plot as lines. Be sure to use base graphics and color each line separately. (4 points)*
+
+```{r, include=TRUE}
+
+```
+
+### Question 2
+
+*Repeat the process for Question 1 but use ggplot2 graphics. The data set must be in the long format. Plot the values of x and y for point two with a scatter plot. (4 points) *
+
+
+```{r, include=TRUE}
+
+```
