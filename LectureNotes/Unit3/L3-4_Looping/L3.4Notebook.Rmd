@@ -174,7 +174,9 @@ Write a loop that will calculate the first 500 Fibonacci numbers. I've gotten yo
 ```{r, include=TRUE}
 Fib.nums <- rep(NA, length = 500)
 Fib.nums[1:2] <- c(0, 1)
+
 Fib.nums[3] <- Fib.nums[1] + Fib.nums[2]
 Fib.nums[4] <- Fib.nums[2] + Fib.nums[3]
+
 
 ```
