@@ -19,7 +19,7 @@ subtitle: "CPSC 292 Section ##"
 
 ```
 
-  b. Use your function from question 3 and the `UCBAdmissions` data set to create a summary matrix of results. The rows should be each department A -- F, there should be one column for percentage of female admitted applications and one column should be percentage of female rejected applications. Name the rows by each department letter and columns by the result. You should use base graphics and manually fill any matrices or data frames. (Do not use specialized packages such as `tidyr` or `dplyr`.)
+  b. Use your function from part a and the `UCBAdmissions` data set to create a summary matrix of results. The rows should be each department A -- F, there should be one column for percentage of female admitted applications and one column should be percentage of female rejected applications. Name the rows by each department letter and columns by the result. You should use base graphics and manually fill any matrices or data frames. (Do not use specialized packages such as `tidyr` or `dplyr`.)
 
 ```{r, include=TRUE}
 
