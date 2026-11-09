@@ -1,6 +1,6 @@
 # CPSC 292 Lecture and Assignment Schedule -- Fall 2026
 
-Last updated: 11/2/2026 
+Last updated: 11/6/2026 
 
 ### Reading Guide and Notes
 
@@ -126,7 +126,7 @@ __Week 11:__
 __Week 12:__
 
   - __Mon Nov 9__: Work on Project 2 (no video), __Exam 2 final attempt__  \
-  $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Prepare 3-min presentation on improved project code}}$ | 1.3.7, 1.3.9, 1.3.10, 3.5 | __Project 2 Draft due__
+  $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Prepare for Exam}}$ | 1.3.7, 1.3.9, 1.3.10, 3.5 | __Project 2 Draft due__
   - __Wed Nov 11__: Refactoring Day! (no video) \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Prepare for Exam}}$ | 1.3.9, 1.3.10, 2.2.1, 2.2.2, 2.2.4, 2.3.4, 3.5 
   - __Fri Nov 13__: __Exam 3: Building Better Code__ (no video) \
