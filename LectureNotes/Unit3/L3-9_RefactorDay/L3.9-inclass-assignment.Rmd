@@ -1,0 +1,87 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+## L3.9 In-class Assignment -- Practice Exam Questions KEY
+### CPSC 292 -- 11/11/2026
+
+__Name:__ \underline{\hspace{4in}} __Section:__ \underline{\hspace{1in}}
+
+
+
+## Question 1
+
+Write a function that performs the calculation $p = 3j^3 + 6kj + k^4 + 3$. Include an example call to demonstrate your function's operation.
+
+```{r}
+calc_it <- function(j, k) 3*j^3 + 6*k*j + k^4 + 3
+calc_it(3,4)
+```
+
+\vspace{5cm}
+
+## Question 2
+
+Create a repeat loop that prints out all even numbers up to and including 100. (Hint: `%%` will give you the remainder after division.)
+
+```{r}
+x <- 0
+repeat{
+  x <- x + 1
+  if(x %% 2 == 0) print(x)
+  if(x == 100) break
+}
+
+```
+
+## Question 3
+
+Rewrite the answer for Question 2 using a while loop. 
+
+```{r}
+x <- 0
+while(x < 101){
+  x <- x + 1
+  if(x %% 2 == 0) print(x)
+}
+
+```
+
+\newpage
+
+## Question 4
+
+Use the iris data set, write a conditional that creates a new column in the data set named `species_numbers` and records the following numbers for each species: 10 for "setosa", 30 for "versicolor", and 55 for "virginica".
+
+```{r}
+data(iris)
+
+iris$species_numbers <- ifelse(iris$Species == "setosa", 10,
+                               ifelse(iris$Species == "versicolor",
+                                      30, 55))
+  
+```
+
+\vspace{5cm}
+
+
+## Question 5
+
+Rewrite the answer for Question 4 using a loop and a traditional conditional.
+
+```{r}
+
+iris$species_numbers <- NA
+
+for(i in 1:nrow(iris)) { 
+  if(iris$Species[i] == "setosa"){
+    iris$species_numbers[i] <- 10
+  }else if (iris$Species[i] == "versicolor"){
+    iris$species_numbers[i] <- 30
+  }else{
+    iris$species_numbers[i] <- 55
+  }
+}
+```
+
