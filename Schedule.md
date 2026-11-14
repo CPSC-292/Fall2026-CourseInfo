@@ -1,6 +1,6 @@
 # CPSC 292 Lecture and Assignment Schedule -- Fall 2026
 
-Last updated: 11/6/2026 
+Last updated: 11/13/2026 
 
 ### Reading Guide and Notes
 
@@ -140,7 +140,7 @@ __Week 13:__
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{Assignment 4.1}}$ | 3.6.5, 3.6.6, 3.7.1
   - __Wed Nov 18__: L4.2 Poster Presentations \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{None}}$ | 3.7.3 |
-  - __Fri Nov 20__: Guest lecture \
+  - __Fri Nov 20__: NO CLASS \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{None}}$ | none |__Project 2 due__
 
 __Week 14:__
