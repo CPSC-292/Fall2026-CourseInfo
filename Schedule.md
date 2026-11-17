@@ -158,7 +158,7 @@ __Week 15:__
   - __Fri Dec 4__: Work on Final Projects (no video), __Exam 3 final attempt__  \
   $\color{red}{\textsf{None}}$ | $\color{blue}{\textsf{None}}$ | all 
   
-__Project 4 due Wed December 9__
+__Project 4 due Wed December 9 by 9 am__
   
 ## Final Exam Periods
 

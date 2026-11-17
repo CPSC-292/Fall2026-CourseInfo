@@ -24,14 +24,12 @@ If you use work outside normal course resources (textbooks, lecture notes, slide
 ## Instructions
 
   - __Step 1:__ You will work with your visualizations from Project 1 or 2. Add a line of code that saves your visualization(s) in a `results/` folder as a PDF. There is nothing to turn in for this step. Create a poster according to the instructions below that describe and interpret the visualizations you've created in context. Optional: submit to your instructor for feedback via slack 48 hours before the assigned due date for your section.
-  - __Step 2:__ Turn in the final version of your poster to Canvas under Project 3 for printing by the following deadlines: 
-    - Section 1: __Friday, December 5, 2025 by 4 pm__
-    - Section 2: __Monday, December 1, 2025 by 4 pm__
+  - __Step 2:__ Turn in the final version of your poster to Canvas under Project 3 for printing by: __Monday, November 30, 2026 by 4 pm__
     
     __If you miss the deadline for your section, you are responsible for printing and bringing your own poster to the final exam.__
   - __Step 3:__ Attend the final exam and present your poster with a short (2--3 minute) oral presentation. 
-    - Section 1 Final exam: __Friday, December 12, 2025 1:30 -- 4 pm__
-    - Section 2 Final exam: __Monday, December 8, 2025 10:45 am -- 1:15 pm__
+    - Section 01: __Monday, December 7, 2025 10:45 am -- 1:15 pm__
+    - Section 02: __Tuesday, December 8, 2025 8:00 -- 10:30 am__
 
 
 ## Additional Information
